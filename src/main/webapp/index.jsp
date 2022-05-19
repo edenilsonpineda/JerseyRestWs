@@ -183,7 +183,7 @@
         </div>
     </main>
     <footer class="pt-5 my-5 text-muted border-top">
-        Desarrollado por @angelicacruz  &copy; 2022 UDB
+        Desarrollado por @edenilsonpineda  &copy; 2022 UDB
     </footer>
 	</div>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
