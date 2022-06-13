@@ -12,7 +12,7 @@ import java.util.logging.Logger;
 
 public abstract class DbConnection {
 	static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
-	static final String DB_URL = "jdbc:mysql://localhost:3306/cursos_udb_db";
+	static final String DB_URL = "jdbc:mysql://localhost:3306/cursosUDB";
 	
 	
 	// Credentials
